@@ -1,0 +1,2 @@
+# round(4.66) -> 5 qaytadi => sonni yaxlitlaydi 
+# abs(-6) -> 6 qaytadi. misol abs(4) => 4 ni qaytaradi. Absolute qiymat ya`ni sonni modulini qaytaradi. Modul bu son manfiy bo`lsa manfiysini obtashidi va agar musbat son bo`lsa o`zini qaytaradi.
